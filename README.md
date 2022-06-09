@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My current status:
 - I’m currently working on a personal project I have yet to give a name
