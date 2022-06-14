@@ -4,7 +4,7 @@ My current status:
 - I have 3 years of experience with Unity and 1 year into Unreal engine 4
 - I’m currently working on a personal project I have yet to give a name
 - At the moment I'm getting more into Unreal engine 4
-- You can ask me anything about my current project! 
+- You can reach out to me at any time!
 
 How to reach me: 
 - Email: noaheasley408@gmail.com
