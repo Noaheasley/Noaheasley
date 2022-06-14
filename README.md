@@ -9,3 +9,4 @@ My current status:
 How to reach me: 
 - Email: noaheasley408@gmail.com
 - Linkin: https://www.linkedin.com/in/noah-easley-497b041ba/
+- Resume: https://resume.creddle.io/resume/i6yfqwnptul
