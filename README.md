@@ -1,5 +1,3 @@
-### Hello there 👋
-
 My current status:
 - I have 3 years of experience with Unity and 1 year into Unreal engine 4
 - I’m currently working on a personal project I have yet to give a name
