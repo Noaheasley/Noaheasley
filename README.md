@@ -1,6 +1,6 @@
 My current status:
-- I have 3 years of experience with Unity and 1 year into Unreal engine 4
-- I’m currently working on a personal project I have yet to give a name
+- 3 years of experience with Unity and 1 year into Unreal engine 4
+- I’m currently working on a personal project called Blood Letter
 - At the moment I'm getting more into Unreal engine 4
 - You can reach out to me at any time!
 
